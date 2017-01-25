@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: monospace;
+}
+
+#main-map {
+  height: 500px;
+  width: 100%;
+}
